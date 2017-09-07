@@ -1,7 +1,2 @@
 ウィンドウズアプリケーションのエントリポイント。
-
-short
-int
-long
-float
-double
+一行追加。
