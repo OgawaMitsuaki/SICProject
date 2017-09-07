@@ -1,0 +1,4 @@
+if (Damage[i].Timer == 1 * 30) {
+	Damage[i].Flg = false;
+	return;
+}
