@@ -1,2 +1,7 @@
 ウィンドウズアプリケーションのエントリポイント。
-一行追加。
+
+short
+int
+long
+float
+double
