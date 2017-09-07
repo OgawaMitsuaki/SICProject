@@ -1,1 +1,0 @@
-	if (Damage[i].Timer == 2 * 30) {
