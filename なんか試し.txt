@@ -1,5 +1,9 @@
 格ゲーしたい
 コンボが面白いキャラが使いたい
+<<<<<<< HEAD
 aaaa
 bbbbb
 ccccc
+=======
+aaaa
+>>>>>>> parent of a6ef415... bbbb霑ｽ蜉
